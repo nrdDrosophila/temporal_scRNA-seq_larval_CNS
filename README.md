@@ -1,6 +1,6 @@
-Single-cell analysis script for "PAPER TITLE HERE" (LINK paper). 
+Single-cell analysis script for "Single cell RNA-seq analysis reveals temporally-regulated and quiescence-regulated gene expression in Drosophila larval neuroblasts"
 
-Author: Noah R. Dillon 
+Script author: Noah R. Dillon 
 
 Folders in this repository: 
 
